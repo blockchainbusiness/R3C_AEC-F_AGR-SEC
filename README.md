@@ -1,4 +1,4 @@
-# R3 Corda - Security Agreements (R3C_AEC-F_AGR-SEC)
+# Security Agreement Module (R3C_AEC-F_AGR-SEC)
 
 ## What are Security Agreements?
 A legal agreement that allows a creditor to seize the debtor's collateral in the case of non-payment of a loan (e.g. seizing a home in the case of non-payment of a mortgage, confiscating equipment and materials in the case of non-delivered construction work...)
